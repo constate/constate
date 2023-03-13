@@ -6,12 +6,7 @@
   <a href="https://constate.github.io/"><img src="https://img.shields.io/badge/Ditto's Blog-484f58?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
   <a href="mailto:constate93@gmail.com"><img src="https://img.shields.io/badge/constate93@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=constate93@gmail.com"/></a>
 </p>
-
-<p> 
   
-</p>
-  
-### Skills⚙️
   
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
